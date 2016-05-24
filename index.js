@@ -8,25 +8,44 @@ var blessed = require('blessed'),
 var screen = blessed.screen();
 var grid = new contrib.grid({rows: 12, cols: 12, screen: screen});
 
-var log = grid.set(1, 2, 11, 10, contrib.log, { 
+// chat window
+var log = grid.set(1, 2, 9, 10, contrib.log, { 
   fg: 'green',
   selectedFg: 'green',
-  label: 'Slack'
+  label: 'Chat'
 });
 
-var tree = grid.set(1, 0, 11, 2, contrib.tree, {
+// channel window
+var tree = grid.set(1, 0, 10, 2, contrib.tree, {
   fg: 'green',
   template: { lines: true },
   label: 'Channels'
 });
 
+var cli = grid.set(9, 2, 2, 10, contrib.cli, {
+  label: 'Say something',
+  secret: false
+});
+
 tree.focus()
+
+cli.on('submit', function (e) {
+	console.log("message sent");
+});
+cli.on('keypress', function (e) {
+	this.setValue(
+		this.getValue() + e
+  	)
+});
 
 tree.on('select',function(node){
   current = node.id;
   log.logLines = [];
   if (node.is_group) {
 	getGroupHistory(current);
+  }
+  if (node.is_im) {
+	  getImHistory(current);
   }
   if (node.is_channel) {
 	getChannelHistory(current);
@@ -67,6 +86,8 @@ rtm.on(CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAuthenticated(rtmStart
   log.log("Authenticated to Markit Slack");
   var channels = rtmStartData.channels;
   var groups = rtmStartData.groups;
+  var ims = rtmStartData.ims;
+
   fs.writeFile('StartData.json', JSON.stringify(rtmStartData), null, " ");
   var channelTree = {
 	"extended": true, 
@@ -83,6 +104,19 @@ rtm.on(CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAuthenticated(rtmStart
 	  channelTree["children"][group.name] = group;
   });
 
+  ims.forEach(function (im) {
+      var userName = rtm.dataStore.getUserById(im.user).name;
+	  channelTree["children"][userName] = im;
+  });
+   
+  //web.dm.list(function (err, response) {
+  //  fs.writeFile('dmList.json', JSON.stringify(response, null, " "));
+  //  response.ims.forEach(function (im) {
+  //    var userName = rtm.dataStore.getUserById(im.user).name 
+  //    channelTree["children"][userName] = im;
+  //  })
+  //})
+
   // Hardcode to start in design right now. 
   getChannelHistory(channelTree.children['design'].id, 'channels')
   tree.setData(channelTree);
@@ -92,6 +126,15 @@ rtm.on(CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAuthenticated(rtmStart
 rtm.on(RTM_EVENTS.MESSAGE, function handleRtmMessage(message) {
 	postMessage(message);
 });
+
+
+function getImHistory(id) {
+	web.dm.history(id, {}, function (err, response) {
+	  fs.writeFile('imHistoryReturn.json', JSON.stringify(response, null, " "));
+	  response.messages = response.messages || [{ text: "No messages found in channel " + id }];
+	  response.messages.forEach( function (message) { postMessage(message) });
+	});
+}
 
 function getChannelHistory(id) {
 	web.channels.history(id, {}, function (err, response) {
