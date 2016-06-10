@@ -1,0 +1,126 @@
+{
+ "ok": true,
+ "messages": [
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "ha",
+   "ts": "1463092482.000014"
+  },
+  {
+   "type": "message",
+   "user": "U03CSU7RK",
+   "text": "The ad for a dell floppy drive at the end was the icing on the cake",
+   "ts": "1463092475.000013"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "<https://www.youtube.com/watch?v=7Lx0cWwVr1w>",
+   "attachments": [
+    {
+     "service_name": "YouTube",
+     "service_url": "https://www.youtube.com/",
+     "title": "Cowboy Bebop - Tank! on Eight Floppy Drives",
+     "title_link": "https://www.youtube.com/watch?v=7Lx0cWwVr1w",
+     "author_name": "MrSolidSnake745",
+     "author_link": "https://www.youtube.com/user/MrSolidSnake745",
+     "thumb_url": "https://i.ytimg.com/vi/7Lx0cWwVr1w/hqdefault.jpg",
+     "thumb_width": 480,
+     "thumb_height": 360,
+     "fallback": "YouTube Video: Cowboy Bebop - Tank! on Eight Floppy Drives",
+     "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/7Lx0cWwVr1w?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>",
+     "video_html_width": 400,
+     "video_html_height": 225,
+     "from_url": "https://www.youtube.com/watch?v=7Lx0cWwVr1w",
+     "id": 1
+    }
+   ],
+   "ts": "1463079748.000011"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "our conversation about sound reminded me of this",
+   "ts": "1463079747.000010"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "Make it look like excel or something",
+   "edited": {
+    "user": "U02SX6C6D",
+    "ts": "1462982577.000000"
+   },
+   "ts": "1462982567.000008"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "Daaaang",
+   "ts": "1462982559.000007"
+  },
+  {
+   "type": "message",
+   "user": "U03CSU7RK",
+   "text": "Phone works. I luckily set up an API token a few days ago so I'm working on making my own slack client.",
+   "ts": "1462977720.000006"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "What about phone?",
+   "ts": "1462977642.000005"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "Ughhhhhhhh",
+   "ts": "1462977637.000004"
+  },
+  {
+   "type": "message",
+   "user": "U03CSU7RK",
+   "text": "Yo slack is blocked now for PC'ers at work so if you need to message me use the dreaded Lync or just throw something at me.",
+   "ts": "1462971465.000002"
+  },
+  {
+   "type": "message",
+   "user": "U03CSU7RK",
+   "text": "Yes. I'm starving.",
+   "ts": "1462816551.000079"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "now?",
+   "ts": "1462816544.000078"
+  },
+  {
+   "type": "message",
+   "user": "U03CSU7RK",
+   "text": "Yes.",
+   "ts": "1462816541.000077"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "lemme know if you wanna go get bacon sandwiches",
+   "ts": "1462816518.000076"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "Server maintenance now",
+   "ts": "1462327277.000075"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "You have good timing",
+   "ts": "1462327277.000074"
+  }
+ ],
+ "has_more": false,
+ "is_limited": true
+}

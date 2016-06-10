@@ -1,0 +1,1140 @@
+{
+ "ok": true,
+ "messages": [
+  {
+   "type": "message",
+   "user": "U0AEU1TJ8",
+   "text": "Yea, I dunno. Shifting the name from research-based to evidence-based design does nothing to solve the fact we still fight to understand users and their context. And in he health-care context, evidence mostly comes after the fact. In our industry, after the fact is helpful, but has costly results if that's all we relied on and we were wrong. The author seems to be saying research doesn't work because we can't seem to do it well--a false argument. It just means we're generally not choosing the right tools for the job. ",
+   "ts": "1463331914.000560",
+   "reactions": [
+    {
+     "name": "thinking_face",
+     "users": [
+      "U037ECZ4R"
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "subtype": "file_share",
+   "text": "<@U0CPNPQVD|elizabeth.korb> uploaded a file: <https://markit.slack.com/files/elizabeth.korb/F18SMBMV4/pasted_image_at_2016_05_13_04_51_pm.png|ending was my fave>",
+   "file": {
+    "id": "F18SMBMV4",
+    "created": 1463179981,
+    "timestamp": 1463179981,
+    "name": "Pasted image at 2016_05_13 04_51 PM.png",
+    "title": "ending was my fave",
+    "mimetype": "image/png",
+    "filetype": "png",
+    "pretty_type": "PNG",
+    "user": "U0CPNPQVD",
+    "editable": false,
+    "size": 121444,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": true,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T025GRXAZ-F18SMBMV4/pasted_image_at_2016_05_13_04_51_pm.png",
+    "url_private_download": "https://files.slack.com/files-pri/T025GRXAZ-F18SMBMV4/download/pasted_image_at_2016_05_13_04_51_pm.png",
+    "thumb_64": "https://files.slack.com/files-tmb/T025GRXAZ-F18SMBMV4-7a1880cffb/pasted_image_at_2016_05_13_04_51_pm_64.png",
+    "thumb_80": "https://files.slack.com/files-tmb/T025GRXAZ-F18SMBMV4-7a1880cffb/pasted_image_at_2016_05_13_04_51_pm_80.png",
+    "thumb_360": "https://files.slack.com/files-tmb/T025GRXAZ-F18SMBMV4-7a1880cffb/pasted_image_at_2016_05_13_04_51_pm_360.png",
+    "thumb_360_w": 360,
+    "thumb_360_h": 307,
+    "thumb_480": "https://files.slack.com/files-tmb/T025GRXAZ-F18SMBMV4-7a1880cffb/pasted_image_at_2016_05_13_04_51_pm_480.png",
+    "thumb_480_w": 480,
+    "thumb_480_h": 409,
+    "thumb_160": "https://files.slack.com/files-tmb/T025GRXAZ-F18SMBMV4-7a1880cffb/pasted_image_at_2016_05_13_04_51_pm_160.png",
+    "image_exif_rotation": 1,
+    "original_w": 712,
+    "original_h": 607,
+    "permalink": "https://markit.slack.com/files/elizabeth.korb/F18SMBMV4/pasted_image_at_2016_05_13_04_51_pm.png",
+    "permalink_public": "https://slack-files.com/T025GRXAZ-F18SMBMV4-5495da2a7b",
+    "channels": [
+     "C037EGYPY"
+    ],
+    "groups": [],
+    "ims": [],
+    "comments_count": 0,
+    "reactions": [
+     {
+      "name": "ok_hand",
+      "users": [
+       "U03A4AAN5",
+       "U0421D3ME",
+       "U037ECZ4R"
+      ],
+      "count": 3
+     }
+    ]
+   },
+   "user": "U0CPNPQVD",
+   "upload": true,
+   "display_as_bot": false,
+   "username": "<@U0CPNPQVD|elizabeth.korb>",
+   "bot_id": null,
+   "ts": "1463179984.000556"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "This is :ok_hand: <https://medium.com/research-things/lets-stop-doing-research-48efcd7118c9#.r2j917mic>",
+   "attachments": [
+    {
+     "service_name": "Medium",
+     "title": "Let’s Stop Doing Research* — Research Things",
+     "title_link": "https://medium.com/research-things/lets-stop-doing-research-48efcd7118c9#.r2j917mic",
+     "text": "And get smarter about design.",
+     "fallback": "Medium: Let’s Stop Doing Research* — Research Things",
+     "image_url": "https://cdn-images-1.medium.com/max/1200/1*Goau5XeLjBrm2MjeN1j9aw.png",
+     "fields": [
+      {
+       "title": "Reading time",
+       "value": "5 mins",
+       "short": true
+      }
+     ],
+     "ts": 1462843825,
+     "from_url": "https://medium.com/research-things/lets-stop-doing-research-48efcd7118c9#.r2j917mic",
+     "image_width": 276,
+     "image_height": 250,
+     "image_bytes": 1072508,
+     "id": 1
+    }
+   ],
+   "ts": "1463178434.000554",
+   "reactions": [
+    {
+     "name": "clap",
+     "users": [
+      "U0CPNPQVD",
+      "U03A4AAN5"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "Thanks!",
+   "ts": "1463174592.000553"
+  },
+  {
+   "type": "message",
+   "user": "U03EDDL1J",
+   "text": "that’s a really good idea guys. i’m glad you’re welcome screens are implemented <@U0421D3ME> they are sweet",
+   "ts": "1463174575.000552"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "oh nice",
+   "ts": "1463173110.000551"
+  },
+  {
+   "type": "message",
+   "user": "U03CU1YDC",
+   "text": "we did a design team outing to the shop roughly 6 years ago, time for another trip",
+   "ts": "1463173105.000550",
+   "reactions": [
+    {
+     "name": "ok_hand",
+     "users": [
+      "U03A4AAN5"
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "Back to <@U03CU1YDC> idea about SparkFun did you all know they are in Niwot? Would be fun to there on a field trip or do a workshop or just hack on them here.  <https://learn.sparkfun.com/workshops>",
+   "ts": "1463173050.000549",
+   "reactions": [
+    {
+     "name": "+1",
+     "users": [
+      "U03CU1YDC",
+      "U03A4AAN5"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "Cornerstone is much more fun to browse though...",
+   "ts": "1463172436.000548"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "I added some things here that <@U03EDDL1J> did that never got implemented but were fun.",
+   "ts": "1463172410.000547"
+  },
+  {
+   "type": "message",
+   "user": "U0AEU1TJ8",
+   "text": "Yup. Since Cornerstone is already grouped by client, this can (and should) be different.",
+   "ts": "1463172402.000546"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "that is what I’m trying to solve, Andy.",
+   "ts": "1463172385.000545"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Love this categorization stuff, it’ll be really helpful for the “Anyone do an X recently?",
+   "ts": "1463172373.000544"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "not sure this is the best way to do it, but a lot better than digging through the old CMD-K land",
+   "ts": "1463172292.000543"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "so I started putting stuff up to see how it feels doing it by client  <https://designs.markit.com/Best+of+Markit+Digital+Design/Mobile+>",
+   "ts": "1463172254.000542"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "oh ya, good point",
+   "ts": "1463172198.000541"
+  },
+  {
+   "type": "message",
+   "user": "U03FMU99F",
+   "text": "so one file could be under both a client header and a theme (e.g. charts, nav etc)",
+   "ts": "1463172166.000540"
+  },
+  {
+   "type": "message",
+   "user": "U03FMU99F",
+   "text": "<@U0421D3ME>: back to the design sample library idea… at least with the new protos we can cross-post files",
+   "ts": "1463172150.000539"
+  },
+  {
+   "type": "message",
+   "user": "U0AEU1TJ8",
+   "text": "<@U03CU1YDC>: Fascinating video with Hans, and great reminder to look beyond initial data presentations, especially “averages”.",
+   "ts": "1463171757.000538"
+  },
+  {
+   "type": "message",
+   "user": "U03AR0KRL",
+   "text": "I like this",
+   "ts": "1463171440.000537"
+  },
+  {
+   "user": "U0421D3ME",
+   "topic": "the more realistic parallel to the 100” TV is the design team meeting",
+   "type": "message",
+   "subtype": "channel_topic",
+   "text": "<@U0421D3ME|ben.klaus> set the channel topic: the more realistic parallel to the 100” TV is the design team meeting",
+   "ts": "1463170946.000536",
+   "reactions": [
+    {
+     "name": "+1",
+     "users": [
+      "U0CPC1YMP"
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "thanks andy",
+   "ts": "1463170571.000535"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "so going forward, if you make something great, feel free to put it here. If someone asks you for something, put it here rather than emailing it to them!",
+   "ts": "1463170558.000534"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "This thing is so purdy, you guys did awesome",
+   "ts": "1463170550.000533"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "OK, well the TIAA pitch is on there if anyone wants to look at. It is super easy to access right here: <https://designs.markit.com/Best+of+Markit+Digital+Design>",
+   "ts": "1463170474.000532",
+   "reactions": [
+    {
+     "name": "ok_hand",
+     "users": [
+      "U037ECZ4R",
+      "U03A4AAN5",
+      "U03CU1YDC",
+      "U08T1N3TQ"
+     ],
+     "count": 4
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "and it would be nice to have an interim alternative until tagging is ready",
+   "ts": "1463170427.000531"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "I could see the TV thing being a problem with clients here all the time",
+   "ts": "1463170379.000530"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "That is a great question! Not trying to be cynical, but the track record would suggest: Nay",
+   "ts": "1463170365.000529"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "I mean tagging functionality, will it get done?",
+   "ts": "1463170329.000528"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "I don’t mean the tv",
+   "ts": "1463170317.000527"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Perhaps! We’ve brought this up before but one concern is clients visiting and making sure to keep it off",
+   "ts": "1463170307.000526"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "agreed Matt, that is the ultimate goal. But do we have faith in that happening?",
+   "ts": "1463170302.000525"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "the more realistic parallel to the 100” TV is the design team meeting",
+   "ts": "1463170295.000524"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "so are you saying if there was a 100” TV showing it people would be more likely to add  to the best of folder?",
+   "ts": "1463170271.000523"
+  },
+  {
+   "type": "message",
+   "user": "U03A4AAN5",
+   "text": "we make so many great internet things, should just be a tag when you post if you greatly enjoy a design, and it goes to a special place to view",
+   "ts": "1463170251.000522"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "no to be updated, and then accessed by folks on their own",
+   "ts": "1463170249.000521"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Recently completed within the last 1-3 months?",
+   "ts": "1463170248.000520"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": ":stuck_out_tongue:",
+   "ts": "1463170243.000519"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "define recent",
+   "ts": "1463170232.000518"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "So we buy a 100-inch TV, bolt it up in the design space, and rotate through recent projects.",
+   "ts": "1463170224.000517"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "you mean relying on it to be updated is unrealistic?",
+   "ts": "1463170208.000516"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "cause relying on this to be accessed by folks on their own is unrealistic",
+   "ts": "1463170185.000515",
+   "reactions": [
+    {
+     "name": "10",
+     "users": [
+      "U03A4AAN5"
+     ],
+     "count": 1
+    },
+    {
+     "name": "100",
+     "users": [
+      "U03A4AAN5"
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U0AEU1TJ8",
+   "text": "In 2018",
+   "ts": "1463170184.000514",
+   "reactions": [
+    {
+     "name": "laughing",
+     "users": [
+      "U037ECZ4R",
+      "U0CPNPQVD"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U0AEU1TJ8",
+   "text": "Pretty sure tagging’s on the list of features to be added.",
+   "ts": "1463170182.000513"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "sure",
+   "ts": "1463170167.000512"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "like an archive of what was shown/will be shown",
+   "ts": "1463170160.000511"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "lol! that’s awesome",
+   "ts": "1463170153.000510"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "i feel like this would make a great repo to inform design team meetings",
+   "ts": "1463170151.000509"
+  },
+  {
+   "type": "message",
+   "user": "U03A4AAN5",
+   "text": "This sounds a lot like a corkboard <@U03AR0KRL>",
+   "ts": "1463170149.000508"
+  },
+  {
+   "type": "message",
+   "user": "U0CPNPQVD",
+   "text": ":rainbow: :doge: = spirit animal",
+   "ts": "1463170141.000507"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "take too long to implement on limited dev resource",
+   "ts": "1463170139.000506"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": ":laughing:",
+   "ts": "1463170127.000505"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "hahaha",
+   "ts": "1463170123.000504"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "but that would take too long",
+   "ts": "1463170122.000503"
+  },
+  {
+   "type": "message",
+   "subtype": "file_share",
+   "text": "<@U0CPC1YMP|ali.khawaja> uploaded a file: <https://markit.slack.com/files/ali.khawaja/F18RJU0F8/pasted_image_at_2016_05_13_02_08_pm.png|one of these is not like the other>",
+   "file": {
+    "id": "F18RJU0F8",
+    "created": 1463170113,
+    "timestamp": 1463170113,
+    "name": "Pasted image at 2016_05_13 02_08 PM.png",
+    "title": "one of these is not like the other",
+    "mimetype": "image/png",
+    "filetype": "png",
+    "pretty_type": "PNG",
+    "user": "U0CPC1YMP",
+    "editable": false,
+    "size": 24335,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": true,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T025GRXAZ-F18RJU0F8/pasted_image_at_2016_05_13_02_08_pm.png",
+    "url_private_download": "https://files.slack.com/files-pri/T025GRXAZ-F18RJU0F8/download/pasted_image_at_2016_05_13_02_08_pm.png",
+    "thumb_64": "https://files.slack.com/files-tmb/T025GRXAZ-F18RJU0F8-7b1e11d945/pasted_image_at_2016_05_13_02_08_pm_64.png",
+    "thumb_80": "https://files.slack.com/files-tmb/T025GRXAZ-F18RJU0F8-7b1e11d945/pasted_image_at_2016_05_13_02_08_pm_80.png",
+    "thumb_360": "https://files.slack.com/files-tmb/T025GRXAZ-F18RJU0F8-7b1e11d945/pasted_image_at_2016_05_13_02_08_pm_360.png",
+    "thumb_360_w": 84,
+    "thumb_360_h": 216,
+    "thumb_160": "https://files.slack.com/files-tmb/T025GRXAZ-F18RJU0F8-7b1e11d945/pasted_image_at_2016_05_13_02_08_pm_160.png",
+    "image_exif_rotation": 1,
+    "original_w": 84,
+    "original_h": 216,
+    "permalink": "https://markit.slack.com/files/ali.khawaja/F18RJU0F8/pasted_image_at_2016_05_13_02_08_pm.png",
+    "permalink_public": "https://slack-files.com/T025GRXAZ-F18RJU0F8-d8c4f422d8",
+    "channels": [
+     "C037EGYPY"
+    ],
+    "groups": [],
+    "ims": [],
+    "comments_count": 0
+   },
+   "user": "U0CPC1YMP",
+   "upload": true,
+   "display_as_bot": false,
+   "username": "<@U0CPC1YMP|ali.khawaja>",
+   "bot_id": null,
+   "ts": "1463170115.000502"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "I guess that was the original idea for this type of thing, a tag or even a :star:",
+   "ts": "1463170111.000501"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "But it’s built in our in-house CMS, so presumably tagging could be added?",
+   "ts": "1463170107.000500"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "No :confused:",
+   "ts": "1463170090.000499"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "very good q",
+   "ts": "1463170089.000498"
+  },
+  {
+   "type": "message",
+   "user": "U0CPNPQVD",
+   "text": "do we have a tagging system by chance?",
+   "ts": "1463170081.000497"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "or most recent",
+   "ts": "1463170053.000496"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "I’m just trying to figure out if should be organized by client or subject, etc...",
+   "ts": "1463170029.000494"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "This is a good idea Ben!",
+   "ts": "1463170005.000493"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "If we can get simple drag+drop reordering on our _lovely_ proto site, we’ll be in business!",
+   "ts": "1463169996.000492"
+  },
+  {
+   "type": "message",
+   "subtype": "file_share",
+   "text": "<@U0421D3ME|ben.klaus> uploaded a file: <https://markit.slack.com/files/ben.klaus/F18QARCJF/pasted_image_at_2016_05_13_02_04_pm.png|Pasted image at 2016-05-13, 2:04 PM>",
+   "file": {
+    "id": "F18QARCJF",
+    "created": 1463169861,
+    "timestamp": 1463169861,
+    "name": "Pasted image at 2016_05_13 02_04 PM.png",
+    "title": "Pasted image at 2016-05-13, 2:04 PM",
+    "mimetype": "image/png",
+    "filetype": "png",
+    "pretty_type": "PNG",
+    "user": "U0421D3ME",
+    "editable": false,
+    "size": 32493,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": true,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T025GRXAZ-F18QARCJF/pasted_image_at_2016_05_13_02_04_pm.png",
+    "url_private_download": "https://files.slack.com/files-pri/T025GRXAZ-F18QARCJF/download/pasted_image_at_2016_05_13_02_04_pm.png",
+    "thumb_64": "https://files.slack.com/files-tmb/T025GRXAZ-F18QARCJF-184c183a7e/pasted_image_at_2016_05_13_02_04_pm_64.png",
+    "thumb_80": "https://files.slack.com/files-tmb/T025GRXAZ-F18QARCJF-184c183a7e/pasted_image_at_2016_05_13_02_04_pm_80.png",
+    "thumb_360": "https://files.slack.com/files-tmb/T025GRXAZ-F18QARCJF-184c183a7e/pasted_image_at_2016_05_13_02_04_pm_360.png",
+    "thumb_360_w": 360,
+    "thumb_360_h": 272,
+    "thumb_480": "https://files.slack.com/files-tmb/T025GRXAZ-F18QARCJF-184c183a7e/pasted_image_at_2016_05_13_02_04_pm_480.png",
+    "thumb_480_w": 480,
+    "thumb_480_h": 363,
+    "thumb_160": "https://files.slack.com/files-tmb/T025GRXAZ-F18QARCJF-184c183a7e/pasted_image_at_2016_05_13_02_04_pm_160.png",
+    "thumb_720": "https://files.slack.com/files-tmb/T025GRXAZ-F18QARCJF-184c183a7e/pasted_image_at_2016_05_13_02_04_pm_720.png",
+    "thumb_720_w": 720,
+    "thumb_720_h": 544,
+    "image_exif_rotation": 1,
+    "original_w": 745,
+    "original_h": 563,
+    "permalink": "https://markit.slack.com/files/ben.klaus/F18QARCJF/pasted_image_at_2016_05_13_02_04_pm.png",
+    "permalink_public": "https://slack-files.com/T025GRXAZ-F18QARCJF-7eb95c8115",
+    "channels": [
+     "C037EGYPY"
+    ],
+    "groups": [],
+    "ims": [],
+    "comments_count": 0,
+    "reactions": [
+     {
+      "name": "clap",
+      "users": [
+       "U0AEU1TJ8",
+       "U0CPC1YMP"
+      ],
+      "count": 2
+     }
+    ]
+   },
+   "user": "U0421D3ME",
+   "upload": true,
+   "display_as_bot": false,
+   "username": "<@U0421D3ME|ben.klaus>",
+   "bot_id": null,
+   "ts": "1463169865.000490"
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "Hey guys! I’m working on creating a space for us to share our work on designs.markit. Would anyone be interested in brainstorming how to best structure it? I realized as I was starting that once it gets going it will be hard to change it. (if we embrace it like I hope we will!)",
+   "ts": "1463169858.000489",
+   "reactions": [
+    {
+     "name": "hand",
+     "users": [
+      "U0CPNPQVD",
+      "U03CU1YDC"
+     ],
+     "count": 2
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "<@U03CU1YDC>: And press *Start* repeatedly. :video_game:",
+   "edited": {
+    "user": "U037ECZ4R",
+    "ts": "1463167880.000000"
+   },
+   "ts": "1463167851.000487"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Got it :wink::point_right:",
+   "ts": "1463167816.000486"
+  },
+  {
+   "type": "message",
+   "user": "U03CU1YDC",
+   "text": "you occasionally have to blow out the dust on the cartridge too",
+   "ts": "1463167799.000485"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "its design to eject and fly into a laptop bag",
+   "ts": "1463167781.000484"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Lol wow, that eject button is huge. Does the whole thing sound like it’s going to break when you eject your laptop?",
+   "ts": "1463167754.000483"
+  },
+  {
+   "type": "message",
+   "subtype": "file_share",
+   "text": "<@U0CPC1YMP|ali.khawaja> uploaded a file: <https://markit.slack.com/files/ali.khawaja/F18RFJB53/pasted_image_at_2016_05_13_01_28_pm.png|Pasted image at 2016-05-13, 1:28 PM>",
+   "file": {
+    "id": "F18RFJB53",
+    "created": 1463167706,
+    "timestamp": 1463167706,
+    "name": "Pasted image at 2016_05_13 01_28 PM.png",
+    "title": "Pasted image at 2016-05-13, 1:28 PM",
+    "mimetype": "image/png",
+    "filetype": "png",
+    "pretty_type": "PNG",
+    "user": "U0CPC1YMP",
+    "editable": false,
+    "size": 959431,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": true,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T025GRXAZ-F18RFJB53/pasted_image_at_2016_05_13_01_28_pm.png",
+    "url_private_download": "https://files.slack.com/files-pri/T025GRXAZ-F18RFJB53/download/pasted_image_at_2016_05_13_01_28_pm.png",
+    "thumb_64": "https://files.slack.com/files-tmb/T025GRXAZ-F18RFJB53-08557f8eaf/pasted_image_at_2016_05_13_01_28_pm_64.png",
+    "thumb_80": "https://files.slack.com/files-tmb/T025GRXAZ-F18RFJB53-08557f8eaf/pasted_image_at_2016_05_13_01_28_pm_80.png",
+    "thumb_360": "https://files.slack.com/files-tmb/T025GRXAZ-F18RFJB53-08557f8eaf/pasted_image_at_2016_05_13_01_28_pm_360.png",
+    "thumb_360_w": 360,
+    "thumb_360_h": 244,
+    "thumb_480": "https://files.slack.com/files-tmb/T025GRXAZ-F18RFJB53-08557f8eaf/pasted_image_at_2016_05_13_01_28_pm_480.png",
+    "thumb_480_w": 480,
+    "thumb_480_h": 326,
+    "thumb_160": "https://files.slack.com/files-tmb/T025GRXAZ-F18RFJB53-08557f8eaf/pasted_image_at_2016_05_13_01_28_pm_160.png",
+    "thumb_720": "https://files.slack.com/files-tmb/T025GRXAZ-F18RFJB53-08557f8eaf/pasted_image_at_2016_05_13_01_28_pm_720.png",
+    "thumb_720_w": 720,
+    "thumb_720_h": 489,
+    "thumb_960": "https://files.slack.com/files-tmb/T025GRXAZ-F18RFJB53-08557f8eaf/pasted_image_at_2016_05_13_01_28_pm_960.png",
+    "thumb_960_w": 960,
+    "thumb_960_h": 652,
+    "thumb_1024": "https://files.slack.com/files-tmb/T025GRXAZ-F18RFJB53-08557f8eaf/pasted_image_at_2016_05_13_01_28_pm_1024.png",
+    "thumb_1024_w": 1024,
+    "thumb_1024_h": 695,
+    "image_exif_rotation": 1,
+    "original_w": 1158,
+    "original_h": 786,
+    "permalink": "https://markit.slack.com/files/ali.khawaja/F18RFJB53/pasted_image_at_2016_05_13_01_28_pm.png",
+    "permalink_public": "https://slack-files.com/T025GRXAZ-F18RFJB53-8260e82f91",
+    "channels": [
+     "C037EGYPY"
+    ],
+    "groups": [],
+    "ims": [],
+    "comments_count": 0
+   },
+   "user": "U0CPC1YMP",
+   "upload": true,
+   "display_as_bot": false,
+   "username": "<@U0CPC1YMP|ali.khawaja>",
+   "bot_id": null,
+   "ts": "1463167718.000482"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "You can have wireless charging in VR, easy.",
+   "ts": "1463167688.000481"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "wireless charging and ethernet (aka cornerstone, protos) hookup",
+   "ts": "1463167682.000480",
+   "reactions": [
+    {
+     "name": "+1",
+     "users": [
+      "U037ECZ4R"
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U03DQDZTW",
+   "text": "Needs VR support.",
+   "ts": "1463167679.000479",
+   "reactions": [
+    {
+     "name": "kappa",
+     "users": [
+      "U02SX6C6D"
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "YES. Like those IKEA tables.",
+   "ts": "1463167675.000478"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "dude what we _need_ is a wireless charging for laptops",
+   "ts": "1463167657.000477"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Yehhhhh me neither",
+   "ts": "1463167657.000476"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "not sure how much work id get done with that under my laptop",
+   "ts": "1463167643.000475"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Can we please play Tetris?",
+   "ts": "1463167625.000474"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "^ we already have three of these tables in the office",
+   "ts": "1463167607.000473"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "<https://www.youtube.com/watch?v=dCHSTi-dWRY>",
+   "attachments": [
+    {
+     "service_name": "YouTube",
+     "service_url": "https://www.youtube.com/",
+     "title": "Interactive RGB LED Table from Ikea Lack side-table",
+     "title_link": "https://www.youtube.com/watch?v=dCHSTi-dWRY",
+     "author_name": "Klaas De Craemer",
+     "author_link": "https://www.youtube.com/user/KlaasDeCraemer",
+     "thumb_url": "https://i.ytimg.com/vi/dCHSTi-dWRY/hqdefault.jpg",
+     "thumb_width": 480,
+     "thumb_height": 360,
+     "fallback": "YouTube Video: Interactive RGB LED Table from Ikea Lack side-table",
+     "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/dCHSTi-dWRY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen></iframe>",
+     "video_html_width": 400,
+     "video_html_height": 225,
+     "from_url": "https://www.youtube.com/watch?v=dCHSTi-dWRY",
+     "id": 1
+    }
+   ],
+   "ts": "1463167601.000471"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Heck yeh!",
+   "ts": "1463167601.000470"
+  },
+  {
+   "type": "message",
+   "user": "U03CU1YDC",
+   "text": "Nice find! \nWe should do a sparkfun hackathon and make some sweet LED display for the new space",
+   "ts": "1463167553.000469"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "Man, I just flippin’ love Panic Inc.\n<https://panic.com/blog/the-panic-sign/>",
+   "attachments": [
+    {
+     "title": "The Panic Sign",
+     "title_link": "https://panic.com/blog/the-panic-sign/",
+     "text": "Image courtesy app: the human story. After many many years of writing apps and doing things, Panic finally feels like a real company. Why now? Well, we put our name on a building. That's right, we're hittin' the small big leagues, baby! But this isn't just for show or ego — it's a little bit cooler than that.…",
+     "fallback": "The Panic Sign",
+     "thumb_url": "https://panic.com/blog/wp-content/uploads/2016/05/sign-header.jpg",
+     "from_url": "https://panic.com/blog/the-panic-sign/",
+     "thumb_width": 2000,
+     "thumb_height": 451,
+     "id": 1
+    }
+   ],
+   "ts": "1463166831.000467"
+  },
+  {
+   "type": "message",
+   "user": "U03CU1YDC",
+   "text": "Also Hans Rosling has a bunch of really enjoyable TED Talks using GapMinder:\n<https://www.ted.com/talks/hans_rosling_the_good_news_of_the_decade>",
+   "attachments": [
+    {
+     "service_name": "TED",
+     "service_url": "http://ted.com",
+     "title": "Hans Rosling: The good news of the decade? We're winning the war against child mortality",
+     "title_link": "https://www.ted.com/talks/hans_rosling_the_good_news_of_the_decade",
+     "author_name": "Hans Rosling",
+     "author_link": "https://www.ted.com/speakers/hans_rosling",
+     "thumb_url": "http://pe.tedcdn.com/images/ted/205077_113x85.jpg?lang=en",
+     "thumb_width": 113,
+     "thumb_height": 84,
+     "text": "Hans Rosling reframes 10 years of UN data with his spectacular visuals, lighting up an astonishing -- and under-reported -- piece of front-page good news: We're winning the war against child death. Along the way, he debunks one flawed approach to stats that blots out such vital stories.",
+     "fallback": "TED Video: Hans Rosling: The good news of the decade? We're winning the war against child mortality",
+     "from_url": "https://www.ted.com/talks/hans_rosling_the_good_news_of_the_decade",
+     "id": 1
+    }
+   ],
+   "ts": "1463163537.000465"
+  },
+  {
+   "type": "message",
+   "subtype": "file_share",
+   "text": "<@U0CPC1YMP|ali.khawaja> uploaded a file: <https://markit.slack.com/files/ali.khawaja/F18R19EM8/pasted_image_at_2016_05_13_12_08_pm.png|what a tricky problem>",
+   "file": {
+    "id": "F18R19EM8",
+    "created": 1463162942,
+    "timestamp": 1463162942,
+    "name": "Pasted image at 2016_05_13 12_08 PM.png",
+    "title": "what a tricky problem",
+    "mimetype": "image/png",
+    "filetype": "png",
+    "pretty_type": "PNG",
+    "user": "U0CPC1YMP",
+    "editable": false,
+    "size": 113185,
+    "mode": "hosted",
+    "is_external": false,
+    "external_type": "",
+    "is_public": true,
+    "public_url_shared": false,
+    "display_as_bot": false,
+    "username": "",
+    "url_private": "https://files.slack.com/files-pri/T025GRXAZ-F18R19EM8/pasted_image_at_2016_05_13_12_08_pm.png",
+    "url_private_download": "https://files.slack.com/files-pri/T025GRXAZ-F18R19EM8/download/pasted_image_at_2016_05_13_12_08_pm.png",
+    "thumb_64": "https://files.slack.com/files-tmb/T025GRXAZ-F18R19EM8-3865b8f4cb/pasted_image_at_2016_05_13_12_08_pm_64.png",
+    "thumb_80": "https://files.slack.com/files-tmb/T025GRXAZ-F18R19EM8-3865b8f4cb/pasted_image_at_2016_05_13_12_08_pm_80.png",
+    "thumb_360": "https://files.slack.com/files-tmb/T025GRXAZ-F18R19EM8-3865b8f4cb/pasted_image_at_2016_05_13_12_08_pm_360.png",
+    "thumb_360_w": 360,
+    "thumb_360_h": 116,
+    "thumb_480": "https://files.slack.com/files-tmb/T025GRXAZ-F18R19EM8-3865b8f4cb/pasted_image_at_2016_05_13_12_08_pm_480.png",
+    "thumb_480_w": 480,
+    "thumb_480_h": 155,
+    "thumb_160": "https://files.slack.com/files-tmb/T025GRXAZ-F18R19EM8-3865b8f4cb/pasted_image_at_2016_05_13_12_08_pm_160.png",
+    "thumb_720": "https://files.slack.com/files-tmb/T025GRXAZ-F18R19EM8-3865b8f4cb/pasted_image_at_2016_05_13_12_08_pm_720.png",
+    "thumb_720_w": 720,
+    "thumb_720_h": 232,
+    "thumb_960": "https://files.slack.com/files-tmb/T025GRXAZ-F18R19EM8-3865b8f4cb/pasted_image_at_2016_05_13_12_08_pm_960.png",
+    "thumb_960_w": 960,
+    "thumb_960_h": 310,
+    "thumb_1024": "https://files.slack.com/files-tmb/T025GRXAZ-F18R19EM8-3865b8f4cb/pasted_image_at_2016_05_13_12_08_pm_1024.png",
+    "thumb_1024_w": 1024,
+    "thumb_1024_h": 330,
+    "image_exif_rotation": 1,
+    "original_w": 1252,
+    "original_h": 404,
+    "permalink": "https://markit.slack.com/files/ali.khawaja/F18R19EM8/pasted_image_at_2016_05_13_12_08_pm.png",
+    "permalink_public": "https://slack-files.com/T025GRXAZ-F18R19EM8-b2dc13cf01",
+    "channels": [
+     "C037EGYPY"
+    ],
+    "groups": [],
+    "ims": [],
+    "comments_count": 0
+   },
+   "user": "U0CPC1YMP",
+   "upload": true,
+   "display_as_bot": false,
+   "username": "<@U0CPC1YMP|ali.khawaja>",
+   "bot_id": null,
+   "ts": "1463162951.000464"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "i guess 5, if you count hovering over the circle",
+   "ts": "1463162811.000463"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "x, y, size of the circle and then the timeline scrubber on the bottom",
+   "ts": "1463162792.000462"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "its a really nice way of handling 4 axes of data",
+   "ts": "1463162776.000461"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "<http://www.gapminder.org/tools/bubbles#_>",
+   "ts": "1463162742.000460"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "and here’s gapminder, for those who haven’t seen it befoer:",
+   "ts": "1463162739.000459"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "^ the article i mentioned in our meeting",
+   "ts": "1463162728.000458"
+  },
+  {
+   "type": "message",
+   "user": "U0CPC1YMP",
+   "text": "<http://www.bloomberg.com/news/articles/2016-04-07/the-financial-industry-is-having-its-napster-moment>",
+   "attachments": [
+    {
+     "service_name": "Bloomberg.com",
+     "title": "The Financial Industry Is Having Its Napster Moment",
+     "title_link": "http://www.bloomberg.com/news/articles/2016-04-07/the-financial-industry-is-having-its-napster-moment",
+     "text": "New rules and a shift toward passively managed funds could see revenues chopped in half.",
+     "fallback": "Bloomberg.com: The Financial Industry Is Having Its Napster Moment",
+     "thumb_url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iB.g1TTbe6ao/v1/-1x-1.jpg",
+     "from_url": "http://www.bloomberg.com/news/articles/2016-04-07/the-financial-industry-is-having-its-napster-moment",
+     "thumb_width": 2000,
+     "thumb_height": 1447,
+     "id": 1
+    }
+   ],
+   "ts": "1463162718.000456"
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "Your :facepalms: only make me stronger!",
+   "ts": "1463160656.000455",
+   "reactions": [
+    {
+     "name": "vader",
+     "users": [
+      "U0421D3ME",
+      "U037ECZ4R",
+      "U03A4AAN5"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U02SX6C6D",
+   "text": "those were donuts of the first order",
+   "ts": "1463153109.000454",
+   "reactions": [
+    {
+     "name": "facepalm",
+     "users": [
+      "U03A4AAN5",
+      "U0AEU1TJ8",
+      "U0556QS7Z",
+      "U0421D3ME",
+      "U03AR0KRL",
+      "U037ECZ4R"
+     ],
+     "count": 6
+    },
+    {
+     "name": "clap",
+     "users": [
+      "U0CPNPQVD"
+     ],
+     "count": 1
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U0421D3ME",
+   "text": "great memory, Phil",
+   "ts": "1463152962.000453"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "<https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSXpMtsZrELNpKOPAOa5GEQIBNaN4bZMLCFNZQvvJdie8pvN0c5xfFIrQ>",
+   "attachments": [
+    {
+     "fallback": "90x90px image",
+     "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSXpMtsZrELNpKOPAOa5GEQIBNaN4bZMLCFNZQvvJdie8pvN0c5xfFIrQ",
+     "image_width": 90,
+     "image_height": 90,
+     "image_bytes": 1888,
+     "from_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTSXpMtsZrELNpKOPAOa5GEQIBNaN4bZMLCFNZQvvJdie8pvN0c5xfFIrQ",
+     "id": 1
+    }
+   ],
+   "ts": "1463152688.000451"
+  },
+  {
+   "type": "message",
+   "user": "U037ECZ4R",
+   "text": "We determined that the donuts with the white glaze and the 3 jelly stripes are Stormtrooper donuts because of Finn.",
+   "ts": "1463152674.000450",
+   "reactions": [
+    {
+     "name": "ok_hand",
+     "users": [
+      "U03A4AAN5",
+      "U0556QS7Z",
+      "U0421D3ME"
+     ],
+     "count": 3
+    }
+   ]
+  },
+  {
+   "type": "message",
+   "user": "U03AR0KRL",
+   "text": "Thanks, Andy!",
+   "ts": "1463152655.000449"
+  }
+ ],
+ "has_more": true,
+ "is_limited": false
+}

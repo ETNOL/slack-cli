@@ -1,0 +1,429 @@
+{
+ "ok": true,
+ "ims": [
+  {
+   "id": "D03CSU7S3",
+   "is_im": true,
+   "user": "USLACKBOT",
+   "created": 1421439438,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03CSU7SB",
+   "is_im": true,
+   "user": "U025GRXB1",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": true
+  },
+  {
+   "id": "D03CSU7U9",
+   "is_im": true,
+   "user": "U025HA6SQ",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03CSU7SK",
+   "is_im": true,
+   "user": "U025HT568",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03CSU7UB",
+   "is_im": true,
+   "user": "U029AS8D1",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03CSU7U1",
+   "is_im": true,
+   "user": "U029ATLST",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D06DPAHG8",
+   "is_im": true,
+   "user": "U02SX6C6D",
+   "created": 1434474381,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03JXT5LL",
+   "is_im": true,
+   "user": "U0365CKQ9",
+   "created": 1423246805,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03TKVDHZ",
+   "is_im": true,
+   "user": "U037ECZ4R",
+   "created": 1425573705,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0HULF5DE",
+   "is_im": true,
+   "user": "U037EKEAL",
+   "created": 1452189944,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03CSU7SR",
+   "is_im": true,
+   "user": "U037EKX0C",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0J6S1V5M",
+   "is_im": true,
+   "user": "U03A4AAN5",
+   "created": 1452542902,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03CSU7T9",
+   "is_im": true,
+   "user": "U03A6FZLS",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D045YEYRF",
+   "is_im": true,
+   "user": "U03AR0KRL",
+   "created": 1427374502,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03CSU7SZ",
+   "is_im": true,
+   "user": "U03AXQJK1",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": true
+  },
+  {
+   "id": "D03CSU7TT",
+   "is_im": true,
+   "user": "U03CS4QA5",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03CSU7TF",
+   "is_im": true,
+   "user": "U03CU1YDC",
+   "created": 1421439439,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03DN7EJP",
+   "is_im": true,
+   "user": "U03DN7EH7",
+   "created": 1421784910,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0GMHN43G",
+   "is_im": true,
+   "user": "U03DNB0TX",
+   "created": 1450195030,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03DQE000",
+   "is_im": true,
+   "user": "U03DQDZTW",
+   "created": 1421785594,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03EB3KH1",
+   "is_im": true,
+   "user": "U03EB3KG5",
+   "created": 1421950735,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03FMU9A7",
+   "is_im": true,
+   "user": "U03FMU99F",
+   "created": 1422385186,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0Q5YDE4U",
+   "is_im": true,
+   "user": "U03FZHEJ7",
+   "created": 1457037949,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0LNMA39R",
+   "is_im": true,
+   "user": "U03KL2PAR",
+   "created": 1455051571,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03KY5UBG",
+   "is_im": true,
+   "user": "U03KY5U8N",
+   "created": 1423589742,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03LB9AQG",
+   "is_im": true,
+   "user": "U03KYEU5H",
+   "created": 1423677768,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03KYUQ6Z",
+   "is_im": true,
+   "user": "U03KYUQ67",
+   "created": 1423603237,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03KZ86Q3",
+   "is_im": true,
+   "user": "U03KZ86PM",
+   "created": 1423605004,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03L0323L",
+   "is_im": true,
+   "user": "U03L0321J",
+   "created": 1423599151,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03NVEPUQ",
+   "is_im": true,
+   "user": "U03NVEPUE",
+   "created": 1424366978,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D03RLFGJ5",
+   "is_im": true,
+   "user": "U03RLFGDP",
+   "created": 1425061976,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0GU6MJ23",
+   "is_im": true,
+   "user": "U03SRGURN",
+   "created": 1450391580,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D040CSJVA",
+   "is_im": true,
+   "user": "U040CSJT6",
+   "created": 1426100717,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0421D3NN",
+   "is_im": true,
+   "user": "U0421D3ME",
+   "created": 1426534831,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D042V4BNT",
+   "is_im": true,
+   "user": "U042V4BLB",
+   "created": 1426712937,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D042XGNKY",
+   "is_im": true,
+   "user": "U042XGNHY",
+   "created": 1426712772,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D042XHZV8",
+   "is_im": true,
+   "user": "U042XHZT4",
+   "created": 1426713006,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D042YDH4L",
+   "is_im": true,
+   "user": "U042YDH3Y",
+   "created": 1426717207,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D048FFXPK",
+   "is_im": true,
+   "user": "U048FFXMF",
+   "created": 1427918825,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D04APE92A",
+   "is_im": true,
+   "user": "U04BB282K",
+   "created": 1428559722,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D04DHJSUB",
+   "is_im": true,
+   "user": "U04DHJSRX",
+   "created": 1429040177,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D04EA0M20",
+   "is_im": true,
+   "user": "U04EA0LPE",
+   "created": 1429282935,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D04S3DNRS",
+   "is_im": true,
+   "user": "U04S3DNKQ",
+   "created": 1431632387,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0F1BRKH8",
+   "is_im": true,
+   "user": "U0556P97M",
+   "created": 1448053270,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D064RQFEG",
+   "is_im": true,
+   "user": "U064RTAHY",
+   "created": 1433870973,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D064U7M0U",
+   "is_im": true,
+   "user": "U064UAJ7R",
+   "created": 1433873621,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0HP39XLY",
+   "is_im": true,
+   "user": "U06Q37HEY",
+   "created": 1452012287,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D07SHM7PA",
+   "is_im": true,
+   "user": "U07SHV8F3",
+   "created": 1437366963,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0AEFSQBY",
+   "is_im": true,
+   "user": "U08T1N3TQ",
+   "created": 1441893849,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0DCW4PPH",
+   "is_im": true,
+   "user": "U0A27SYSY",
+   "created": 1446067192,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0HGS0S1F",
+   "is_im": true,
+   "user": "U0AEU1TJ8",
+   "created": 1451505417,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0LDU9XV5",
+   "is_im": true,
+   "user": "U0B4XKZ9A",
+   "created": 1454702220,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  },
+  {
+   "id": "D0FTX9ME1",
+   "is_im": true,
+   "user": "U0BP2DHJS",
+   "created": 1449244530,
+   "is_org_shared": false,
+   "is_user_deleted": false
+  }
+ ]
+}
