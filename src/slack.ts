@@ -23,20 +23,18 @@ class Slack {
 		this.rtm.start();
 	}
 
-	getGroupHistory(channel) {
-
+	getGroupHistory(channelId: string, cb: Function) {
+		this.web.groups.history(channelId, {}, cb);
 	}
 
-	getImHistory(channelId: string, cb) {
+	getImHistory(channelId: string, cb: Function) {
 		this.web.dm.history(channelId, {}, cb);
-
-	getChannelHistory(channel) {
-
 	}
 
-	postMessage() {
-
+	getChannelHistory(channelId:string, cb: Function) {
+		this.web.channels.history(channelId, {}, cb);
 	}
+	
 }
 
 var slack = new Slack();

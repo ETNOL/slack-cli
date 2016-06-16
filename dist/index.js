@@ -1,9 +1,9 @@
 "use strict";
-var screen_ts_1 = require('./screen.ts');
-var slack_ts_1 = require('./slack.ts');
+var screen_1 = require('./screen');
+var slack_1 = require('./slack');
 var fs = require('fs');
-slack_ts_1.default.rtm.on(CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAuthenticated(rtmStartData) {
-    screen_ts_1.default.chatWindow.log("Authenticated to Markit Slack");
+slack_1.default.rtm.on(slack_1.default.CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAuthenticated(rtmStartData) {
+    screen_1.default.chatWindow.log("Authenticated to Markit Slack");
     var channels = rtmStartData.channels;
     var groups = rtmStartData.groups;
     var ims = rtmStartData.ims;
@@ -25,41 +25,8 @@ slack_ts_1.default.rtm.on(CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAut
         channelTree["children"][userName] = im;
     });
     getChannelHistory(channelTree.children['design'].id);
-    screen_ts_1.default.channelWindow.setData(channelTree);
+    screen_1.default.channelWindow.setData(channelTree);
 });
-rtm.on(RTM_EVENTS.MESSAGE, function handleRtmMessage(message) {
-    postMessage(message);
+slack_1.default.rtm.on(slack_1.default.RTM_EVENTS.MESSAGE, function handleRtmMessage(message) {
+    screen_1.default.postMessage(message);
 });
-function getImHistory(id) {
-    web.dm.history(id, {}, function (err, response) {
-        fs.writeFile('imHistoryReturn.json', JSON.stringify(response, null, " "));
-        response.messages = response.messages || [{ text: "No messages found in channel " + id }];
-        response.messages.forEach(function (message) { postMessage(message); });
-    });
-}
-function getChannelHistory(id) {
-    web.channels.history(id, {}, function (err, response) {
-        fs.writeFile('historyReturn.json', JSON.stringify(response, null, " "));
-        response.messages = response.messages || [{ text: "No messages found in channel " + id }];
-        response.messages.forEach(function (message) { postMessage(message); });
-    });
-}
-function getGroupHistory(id) {
-    web.groups.history(id, {}, function (err, response) {
-        fs.writeFile('historyReturn.json', JSON.stringify(response, null, " "));
-        response.messages = response.messages || [{ text: "No messages found in group " + id }];
-        response.messages.forEach(function (message) { postMessage(message); });
-    });
-}
-function postMessage(message) {
-    var messageText = message.text;
-    var user = message.user ? rtm.dataStore.getUserById(message.user).name : undefined;
-    var postMessage = "";
-    if (user) {
-        postMessage += user + ": ";
-    }
-    if (messageText) {
-        postMessage += messageText;
-    }
-    screen_ts_1.default.chatWindow.log(postMessage);
-}

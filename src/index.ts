@@ -1,10 +1,9 @@
-import AppScreen from './screen.ts';
-import Slack from './slack.ts';
-
+import AppScreen from './screen';
+import Slack from './slack';
 var fs = require('fs');
 
 //----- Initialization --------------//
-Slack.rtm.on(CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAuthenticated(rtmStartData) {
+Slack.rtm.on(Slack.CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAuthenticated(rtmStartData) {
   AppScreen.chatWindow.log("Authenticated to Markit Slack");
   var channels = rtmStartData.channels;
   var groups = rtmStartData.groups;
@@ -40,56 +39,14 @@ Slack.rtm.on(CLIENT_EVENTS.RTM.AUTHENTICATED, function handleRTMAuthenticated(rt
   //})
 
   // Hardcode to start in design right now.
-  getChannelHistory(channelTree.children['design'].id)
+getChannelHistory(channelTree.children['design'].id)
   AppScreen.channelWindow.setData(channelTree);
 });
 
 //---------Incoming Messages ------------//
-rtm.on(RTM_EVENTS.MESSAGE, function handleRtmMessage(message) {
-	postMessage(message);
+Slack.rtm.on(Slack.RTM_EVENTS.MESSAGE, function handleRtmMessage(message) {
+	AppScreen.postMessage(message);
 });
-
-
-function getImHistory(id) {
-	web.dm.history(id, {}, function (err, response) {
-	  fs.writeFile('imHistoryReturn.json', JSON.stringify(response, null, " "));
-	  response.messages = response.messages || [{ text: "No messages found in channel " + id }];
-	  response.messages.forEach( function (message) { postMessage(message) });
-	});
-}
-
-function getChannelHistory(id) {
-	web.channels.history(id, {}, function (err, response) {
-	  fs.writeFile('historyReturn.json', JSON.stringify(response, null, " "));
-	  response.messages = response.messages || [{ text: "No messages found in channel " + id }];
-	  response.messages.forEach( function (message) { postMessage(message) });
-	});
-}
-
-function getGroupHistory(id) {
-	web.groups.history(id, {}, function (err, response) {
-	  fs.writeFile('historyReturn.json', JSON.stringify(response, null, " "));
-	  response.messages = response.messages || [{ text: "No messages found in group " + id }];
-	  response.messages.forEach( function (message) { postMessage(message) });
-	});
-}
-
-
-function postMessage (message: Message) {
-
-	var messageText = message.text;
-	var user = message.user ? rtm.dataStore.getUserById(message.user).name : undefined;
-	var postMessage = "";
-	if (user) {
-	  postMessage += user + ": ";
-	}
-
-	if ( messageText ) {
-	  postMessage += messageText;
-	}
-	AppScreen.chatWindow.log( postMessage );
-}
-
 
 
 // hold on these untill emoji's are supported

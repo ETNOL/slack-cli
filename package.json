@@ -10,5 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "slack-client": "^2.0.4"
+  },
+  "devDependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^3.5.5"
   }
 }

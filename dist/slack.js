@@ -15,16 +15,14 @@ var Slack = (function () {
         this.web = new WebClient(token);
         this.rtm.start();
     }
-    Slack.prototype.getGroupHistory = function (channel) {
+    Slack.prototype.getGroupHistory = function (channelId, cb) {
+        this.web.groups.history(channelId, {}, cb);
     };
     Slack.prototype.getImHistory = function (channelId, cb) {
         this.web.dm.history(channelId, {}, cb);
-        getChannelHistory(channel);
-        {
-        }
-        postMessage();
-        {
-        }
+    };
+    Slack.prototype.getChannelHistory = function (channelId, cb) {
+        this.web.channels.history(channelId, {}, cb);
     };
     return Slack;
 }());
