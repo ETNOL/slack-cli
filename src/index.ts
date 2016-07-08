@@ -1,5 +1,5 @@
 import { AppScreen } from './screen';
-//import Slack from './slack';
+import { Slack } from './slack';
 
 var fs = require('fs');
 var appScreen = new AppScreen();
